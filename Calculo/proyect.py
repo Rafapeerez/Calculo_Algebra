@@ -1,9 +1,3 @@
-"""
-Name: Metodo de Euler
-Author: Avaro David Serrano López
-Date: 23/11/2021
-Version: 1.0
-"""
 
 import matplotlib.pyplot as graficas # Implementamos matpotlib que es lo que nos va a hacer la grafica 
 
